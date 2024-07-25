@@ -19,6 +19,12 @@ pip install -r requirements.txt
 ### Launch Jupyter Notebook:
 jupyter notebook
 
+## Links to Use & Download:
+Label image: https://github.com/HumanSignal/labelImg
+Object Detection API Install Documentation: https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html
+Tensorflow Models Garden: https://github.com/tensorflow/models
+Tensorflow Model ZOO: https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md
+
 ## Usage
 Open the Template.ipynb notebook in Jupyter.
 Follow the instructions within the notebook to capture dice rolls from the game.
